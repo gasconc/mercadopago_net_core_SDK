@@ -1,0 +1,9 @@
+D:\Template\Premium\Angular 9\Mercado-Pago-Net-Core-master\Mercado-Pago-Net-Core-master\bin\Debug\netcoreapp2.1\MercadoPagoCore.deps.json
+D:\Template\Premium\Angular 9\Mercado-Pago-Net-Core-master\Mercado-Pago-Net-Core-master\bin\Debug\netcoreapp2.1\MercadoPagoCore.dll
+D:\Template\Premium\Angular 9\Mercado-Pago-Net-Core-master\Mercado-Pago-Net-Core-master\bin\Debug\netcoreapp2.1\MercadoPagoCore.pdb
+D:\Template\Premium\Angular 9\Mercado-Pago-Net-Core-master\Mercado-Pago-Net-Core-master\obj\Debug\netcoreapp2.1\MercadoPagoCore.csprojAssemblyReference.cache
+D:\Template\Premium\Angular 9\Mercado-Pago-Net-Core-master\Mercado-Pago-Net-Core-master\obj\Debug\netcoreapp2.1\MercadoPagoCore.AssemblyInfoInputs.cache
+D:\Template\Premium\Angular 9\Mercado-Pago-Net-Core-master\Mercado-Pago-Net-Core-master\obj\Debug\netcoreapp2.1\MercadoPagoCore.AssemblyInfo.cs
+D:\Template\Premium\Angular 9\Mercado-Pago-Net-Core-master\Mercado-Pago-Net-Core-master\obj\Debug\netcoreapp2.1\MercadoPagoCore.csproj.CoreCompileInputs.cache
+D:\Template\Premium\Angular 9\Mercado-Pago-Net-Core-master\Mercado-Pago-Net-Core-master\obj\Debug\netcoreapp2.1\MercadoPagoCore.dll
+D:\Template\Premium\Angular 9\Mercado-Pago-Net-Core-master\Mercado-Pago-Net-Core-master\obj\Debug\netcoreapp2.1\MercadoPagoCore.pdb
